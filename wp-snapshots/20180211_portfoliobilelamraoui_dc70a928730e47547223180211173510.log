@@ -1,0 +1,97 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: February 11, 2018 5:37 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.32
+WORDPRESS:	4.9.4
+PHP INFO:	7.1.11-0ubuntu0.17.10.1 | SAPI: apache2handler
+SERVER:		Apache/2.4.27 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: mysqldump: [Warning] Using a password on the command line interface can be insecure.
+ 
+TABLES: total:27 | filtered:0 | create:27 
+SQL CREATED: 20180211_portfoliobilelamraoui_dc70a928730e47547223180211173510_database.sql 
+SQL FILE SIZE: 945.08KB (967764) 
+SQL FILE TIME: 2018-02-11 17:37:14 
+SQL RUNTIME: 0.08 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /var/www/html/wordpress 
+ARCHIVE FILE: 20180211_portfoliobilelamraoui_dc70a928730e47547223180211173510_archive.zip 
+FILTERS: *ON* 
+DIRS:
+	not set 
+FILES:
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-06-17-54-46-1-1024x576.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-06-17-54-46-1-150x150.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-06-17-54-46-2-1024x576.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-06-17-54-46-2-768x432.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-10-32-1-300x169.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-10-57-1-300x169.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-10-57-1024x576.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-10-57-768x432.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-10-57-e1518340540149.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-10-57.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-11-32-1-150x150.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-11-32-1024x576.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-11-32-300x169.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-11-32-768x432.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-11-32.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-12-01-1-300x169.png
+	/var/www/html/wordpress/wp-content/uploads/2018/02/Capture-d’écran-de-2018-02-11-09-12-01-1.png 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	39.72MB 
+STATS:	Dirs 184 | Files 1,744 
+SQL ADDED: 20180211_portfoliobilelamraoui_dc70a928730e47547223180211173510_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1928
+    [filename] => /var/www/html/wordpress/wp-snapshots/tmp/20180211_portfoliobilelamraoui_dc70a928730e47547223180211173510_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 12.8MB 
+ARCHIVE RUNTIME: 2.12 sec. 
+MEMORY STACK: 4MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/var/www/html/wordpress/wp-snapshots/tmp/20180211_portfoliobilelamraoui_dc70a928730e47547223180211173510_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 945.08KB 
+Installer File: 444.01KB 
+Archive File: 12.8MB  
+
+********************************************************************************
+RECORD ID:[9]
+TOTAL PROCESS RUNTIME: 2.33 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20180211_portfoliobilelamraoui February 11, 2018 5:37 pm
+ 
