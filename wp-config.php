@@ -25,7 +25,7 @@ define('DB_NAME', 'bilelamrmg781');
 define('DB_USER', 'bilelamrmg781');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', '14031995bilelA');
+define('DB_PASSWORD', '');
 
 /** Adresse de l’hébergement MySQL. */
 define('DB_HOST', 'bilelamrmg781.mysql.db');
