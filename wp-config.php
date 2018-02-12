@@ -26,7 +26,7 @@ define('DB_NAME', 'portfolio');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '14031995');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -57,7 +57,7 @@ define('NONCE_SALT',       '=ZV_7z6 I>pYS,WtAKj:8=RqR-kMXS,exA$=uVM]Kj8aartt`A{>
 define('FS_METHOD','direct');
 define("FTP_HOST", "localhost");
 define("FTP_USER", “amraoui”);
-define("FTP_PASS", “14031995amraoui”);
+define("FTP_PASS", “”);
 /**#@-*/
 
 /**
