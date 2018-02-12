@@ -16,7 +16,7 @@ get_header();
 	<div class="p-5 row col-12 justify-content-center">
 	<div class=" m-2 col-lg-4 col-md-8 col-sm-12 "><a class="p-3 card text-center" style=" border-color: #000; text-decoration: none;"  href="<?php the_field('lien'); ?>">Contact</a></div>
 	<div class=" m-2 col-lg-4 col-md-8 col-sm-12 "><a class="p-3 card text-center" style=" border-color: #000; text-decoration: none;"  href="<?php the_field('lien2'); ?>">CV</a></div>
-	<div class=" m-2 col-lg-4 col-md-8 col-sm-12"><a class="p-3 card text-center" style=" border-color: #000; text-decoration: none;"  href="http://localhost/wordpress/?post_type=projet">Projet</a></div>
+	<div class=" m-2 col-lg-4 col-md-8 col-sm-12"><a class="p-3 card text-center" style=" border-color: #000; text-decoration: none;"  href="http://bilelamraoui.ovh/?post_type=projet">Projet</a></div>
 		
 
 		

@@ -1,5 +1,4 @@
 
-
 <?php
 
 if(!function_exists("get_field")) return;
@@ -9,7 +8,15 @@ if(!function_exists("get_field")) return;
     <h1 class="text-center"><?php the_field('titre'); ?></h1>
   </div>
   <div class="col-12 mt-5">
-      <img class="col-12"  src="<?php the_field('img'); ?>"/>
+      <?php 
+
+$image = get_field('img');
+
+if( !empty($image) ): ?>
+
+	<img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
+
+<?php endif; ?>
     </div>
     <div class="col-12 mt-5">
       <strong class="col-12">Descriptif :</strong>

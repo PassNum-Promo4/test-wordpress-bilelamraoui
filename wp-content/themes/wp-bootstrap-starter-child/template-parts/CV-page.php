@@ -5,7 +5,7 @@
 
 get_header();
 ?>
-<div class="card row col-12 p-5 w-100 d-flex justify-content-center "style=" border-color: #000;" >  
+<div class=" row col-12 p-5 w-100 d-flex justify-content-center "style=" border-color: #000;" >  
 
 
   <div class="row col-12">
